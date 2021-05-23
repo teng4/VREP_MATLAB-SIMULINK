@@ -13,3 +13,5 @@ This demo folder includes,
 (3) SIMULINK *.slx file for communication between SIMULINK and VREP (via Sfunction);
 
 (4) A scene *.ttt file is the virtual PANDA robot in VREP.
+
+![20210522_194541_PANDAinVREP](https://user-images.githubusercontent.com/34574771/119245433-98bbba80-bb36-11eb-8214-1a27b54c3b6c.png)
