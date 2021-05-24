@@ -1,4 +1,4 @@
-# VREP_SIMULINK
+# VREP_MATLAB/SIMULINK
 A simple demo for communicating between VREP (CoppeliaSim) and MATLAB/SIMULINK.
 
 The demo is to control the virtual PANDA robot in VREP using MATLAB *.m code or only SIMULINK (via Sfunction).
