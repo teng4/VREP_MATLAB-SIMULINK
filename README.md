@@ -3,6 +3,10 @@ A simple demo for communicating between VREP (CoppeliaSim) and MATLAB/SIMULINK.
 
 The demo is to control the virtual PANDA robot in VREP using MATLAB *.m code or only SIMULINK (via Sfunction).
 
+# Platform
+Matlab R2020a 64bit;
+CoppeliaSim Edu, Version 4.1.0 (rev.1) 64bit.
+
 # Contents
 This demo folder includes, 
 
